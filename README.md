@@ -1,4 +1,4 @@
-# Fireblocks RegTech & Risk Report (2025)
+# Fireblocks RegTech & Risk Report
 
 Business analysis of **Fireblocks**—its emerging technologies (MPC custody and confidential computing), institutional user segments, **regulatory alignment** across EU/UK/SG/US/AU, and a **risk–response matrix**—with supporting visuals and a 5-minute investor presentation.
 
